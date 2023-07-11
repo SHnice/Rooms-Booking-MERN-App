@@ -1,6 +1,5 @@
 # HotelBooking
 
-Hotel Booking App Using The MERN Stack With TypeScript & Redux 🤩
 
 ![screenshot](screenshots/1.png)
 
@@ -68,5 +67,4 @@ npm run server
 
 - Version: 1.0.0
 - License: MIT
-- Author: Said Mounaim
 "# Rooms-Booking-MERN-App" 
