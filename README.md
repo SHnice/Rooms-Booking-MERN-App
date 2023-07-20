@@ -65,6 +65,3 @@ npm run client
 npm run server
 ```
 
-- Version: 1.0.0
-- License: MIT
-"# Rooms-Booking-MERN-App" 
