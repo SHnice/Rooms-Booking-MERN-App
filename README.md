@@ -31,7 +31,6 @@
 - React
 - React Bootstrap
 - Redux
-- React Paypal Button V2
 
 ## Usage
 
