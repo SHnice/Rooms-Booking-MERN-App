@@ -8,8 +8,6 @@
     "client": "npm start --prefix frontend"
   },
   "keywords": [],
-  "author": "Said MOUNAIM",
-  "license": "ISC",
   "devDependencies": {
     "@types/bcrypt": "^5.0.0",
     "@types/cors": "^2.8.12",
